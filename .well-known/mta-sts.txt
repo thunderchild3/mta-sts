@@ -1,0 +1,10 @@
+version: STSv1
+mode: testing
+mx: aspmx.l.google.com
+mx: alt1.aspmx.l.google.com
+mx: alt2.aspmx.l.google.com
+mx: alt3.aspmx.l.google.com
+mx: alt4.aspmx.l.google.com
+mx: in1-smtp.messagingengine.com
+mx: in2-smtp.messagingengine.com
+max_age: 604800
